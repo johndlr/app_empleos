@@ -1,6 +1,12 @@
 <h1 align="center" id="title">Sitio de Empleos</h1>
 
 <p id="description">Aplicación desarrollada con Spring Boot que simula un portal de búsqueda de trabajo</p>
+<p>Se usaron algunos modulos de Spring:</p>
+<ul>
+    <li>Spring MVC</li>
+    <li>Spring Data</li>
+    <li>Spring Security</li>
+</ul>
 
 <h2>Project Screenshots:</h2>
 
